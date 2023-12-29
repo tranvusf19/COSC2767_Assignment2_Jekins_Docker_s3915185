@@ -36,7 +36,7 @@
       <br>
       <span class="badge badge-secondary">s3915185</span>
       <br>
-      <span class="badge badge-success">Software Engineering; Computer Engineering</span>
+      <span class="badge badge-success">Software Engineering</span>
       <br>
       <span class="badge badge-danger">Swimming</span>
       <br>
